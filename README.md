@@ -9,7 +9,6 @@
 
 # Master 3D Admin Sys
 
-hello
-This is the base for our order management system.
+This is the base code for our order management system.
 
 </footer>
