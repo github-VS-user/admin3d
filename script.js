@@ -3,7 +3,7 @@ document.getElementById('adminLoginForm').addEventListener('submit', function(ev
     event.preventDefault();
 
     const password = document.getElementById('adminPassword').value;
-    const correctPassword = 'master3DAdmin'; // Mot de passe Admin
+    const correctPassword = 'adminadmin123'; // Mot de passe Admin
 
     if (password === correctPassword) {
         document.getElementById('adminPanel').classList.remove('hidden');
